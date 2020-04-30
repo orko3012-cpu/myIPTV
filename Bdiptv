@@ -1404,8 +1404,6 @@ https://stream.simpaisa.com/pitvlive2/discovery_360p/playlist.m3u8?checkedby:ipt
 #EXTINF:-1,Channel T1
 http://128.199.212.160/channelt1/1080/index.m3u8
 #EXTINF:-1,Channel-S
-#EXTM3U
-#EXTPARAMS:NET=6500
 #EXTINF:-1 group-title="BOOKIES",UK SP: Coral TV 1
 http://clientbox.tv:80/hAcWZsU8uG/xs0zM0KM/40078
 #EXTINF:-1,UK SP: Betfred TV
