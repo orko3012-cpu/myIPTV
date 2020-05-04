@@ -4365,6 +4365,9 @@ http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Tegar TV Lampung" tvg-logo="https://i.imgur.com/nPMUC1e.png" group-title="World TV",Tegar TV Lampung
 http://wms.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Thrill (Opt-1)" tvg-logo="https://i.imgur.com/WzyIoRc.png" group-title="World TV",Thrill (Opt-1)
+
+#UK CHANNEL
+
 #EXTINF:0, group-title="Sky Entertainment", VIP FHD HISTORY
 http://bestever.vodiptv.org:83/37898322/77081405/374189
 #EXTINF:0, group-title="Sky Entertainment", VIP SD History
@@ -4649,7 +4652,3 @@ http://bestever.vodiptv.org:83/37898322/77081405/381403
 http://bestever.vodiptv.org:83/37898322/77081405/381404
 #EXTINF:0, group-title="Aussie Sport",Fox Sports 507
 http://bestever.vodiptv.org:83/37898322/77081405/381405
-#EXTINF:0,WILLOW CRICKET
-http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/100685
-#EXTINF:0,WILLOWXTRA CRICKET
-http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/100686
