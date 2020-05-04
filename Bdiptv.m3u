@@ -4649,60 +4649,7 @@ http://bestever.vodiptv.org:83/37898322/77081405/381403
 http://bestever.vodiptv.org:83/37898322/77081405/381404
 #EXTINF:0, group-title="Aussie Sport",Fox Sports 507
 http://bestever.vodiptv.org:83/37898322/77081405/381405
-http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Thrill (Opt-2)" tvg-logo="https://i.imgur.com/WzyIoRc.png" group-title="World TV",Thrill (Opt-2)
-http://210.210.155.35/qwr9ew/s/s34/01.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Thrill (Opt-3)" tvg-logo="https://i.imgur.com/WzyIoRc.png" group-title="World TV",Thrill (Opt-3)
-http://45.126.83.51/qwr9ew/s/s34/index.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="TOYOR RT" tvg-logo="Logo N/A" group-title="World TV",TOYOR RT
-http://95.170.215.109/hls/m3u8/TOYOR-B-Backup.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Trans 7 (Opt-1)" tvg-logo="https://i.imgur.com/cpSiuF1.png" group-title="World TV",Trans 7 (Opt-1)
-http://202.80.222.182/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Trans 7 (Opt-3)" tvg-logo="https://i.imgur.com/cpSiuF1.png" group-title="World TV",Trans 7 (Opt-3)
-http://210.210.155.35/qwr9ew/s/s101/01.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Trans 7 Indo HD" tvg-logo="Logo N/A" group-title="World TV",Trans 7 Indo HD
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1736530285_b384000_sleng.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Trans TV (Opt-1)" tvg-logo="https://i.imgur.com/9ESSmBG.png" group-title="World TV",Trans TV (Opt-1)
-http://202.80.222.182/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Trans TV (Opt-5)" tvg-logo="https://i.imgur.com/9ESSmBG.png" group-title="World TV",Trans TV (Opt-5)
-http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="TV+" tvg-logo="Logo N/A" group-title="World TV",TV+
-http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="TV1000 Action" tvg-logo="Logo N/A" group-title="World TV",TV1000 Action
-http://mfe24.svc.ott.zala.by/hls/9X9NUEEKGW_HLS/bw2000000/playlist.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Urfo 24" tvg-logo="Logo N/A" group-title="World TV",Urfo 24
-http://live-urfo24.cdnvideo.ru/urfo24/urfo24.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Viasat Nature" tvg-logo="Logo N/A" group-title="World TV",Viasat Nature
-http://noname.do.am/z/low/viasatnature.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="World Fashion CH" tvg-logo="Logo N/A" group-title="World TV",World Fashion CH
-http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="WoW TV" tvg-logo="Logo N/A" group-title="World TV",WoW TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 group-title="World TV",UNIVER
-http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
-#EXTINF:-1 group-title="World TV",Canada Star
-http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
-#EXTINF:-1 group-title="World TV",Te Reo
-http://i.mjh.nz/nz/tv.20.m3u8
-#EXTINF:-1 group-title="World TV",Ren TV
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
-#EXTINF:-1 group-title="World TV",Ren TV International
-http://ad-hls-rentv.cdnvideo.ru:80/ren/smil:ren.smil/chunklist_b1024000.m3u8
-#EXTINF:-1 group-title="World TV",TRT Turk
-https://tv-trtturk.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Amarin HD" tvg-logo="Logo N/A" group-title="World TV",Amarin
-http://103.120.113.90:1935/psilive1a/AmarinHD.stream_360p/chunklist_w585897880.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="PLTV" tvg-logo="Logo N/A" group-title="World TV",PLTV
-http://161.0.157.5/PLTV/88888888/224/3221227041/03.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="TVMChannel" tvg-logo="Logo N/A" group-title="World TV",TVM Channel HD
-http://149.154.68.132:8081/HOLA/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="TV Duga Plus" tvg-logo="Logo N/A" group-title="World TV",TV Duga Plus
-http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Ren Tv Ru" tvg-logo="Logo N/A" group-title="World TV",Ren Tv Ru
-http://sc.id-tv.kz/RenTV.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="MTV Mix" tvg-logo="Logo N/A" group-title="World TV",MTV Mix
-http://81.30.182.82:18092/hls/live.m3u8
-#EXTINF:0,WILLOWXTRA CRICKET
-http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/100686
 #EXTINF:0,WILLOW CRICKET
 http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/100685
+#EXTINF:0,WILLOWXTRA CRICKET
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/100686
