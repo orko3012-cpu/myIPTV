@@ -4666,3 +4666,33 @@ http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/31209
 http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/98777
 #EXTINF:0, group-title="Sky Entertainment", CNN
 http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/1347
+#EXTINF:-1 group-title="Triangle",Gazi Tv
+https://triangle.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+#EXTINF:-1 group-title="Triangle",Maasranga
+https://triangle.iptv.digijadoo.net/live/maasranga/chunks.m3u8
+#EXTINF:-1 group-title="Triangle",Channel I
+https://triangle.iptv.digijadoo.net/live/channel_i/chunks.m3u8
+#EXTINF:-1 group-title="Triangle",RTV
+https://triangle.iptv.digijadoo.net/live/rtv/chunks.m3u8
+#EXTINF:-1 group-title="Triangle",Colord HD
+https://triangle.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+#EXTINF:-1 group-title="Triangle",Star gold
+https://triangle.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+#EXTINF:-1, group-title="Triangle",TLC hd 
+https://triangle.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
+#EXTINF:-1, group-title="Triangle",Macau Lotus
+https://triangle.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
+#EXTINF:-1, group-title="Triangle",fyiHd
+https://triangle.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
+#EXTINF:-1, group-title="Triangle",bbc lifestyle
+https://triangle.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
+#EXTINF:-1, group-title="Triangle",Star world
+https://triangle.iptv.digijadoo.net/live/star_world/chunks.m3u8
+#EXTINF:-1, group-title="Triangle",comedy circle
+https://triangle.iptv.digijadoo.net/live/diva/chunks.m3u8
+#EXTINF:-1, group-title="Triangle",Colors Infinity
+https://triangle.iptv.digijadoo.net/live/colors_infinity/l_429826_80634302_62380.ts
+#EXTINF:-1, group-title="Triangle",Cnn SD
+https://triangle.iptv.digijadoo.net/live/cnn/chunks.m3u8
+#EXTINF:-1, group-title="Triangle",NHK World
+https://triangle.iptv.digijadoo.net/live/nhk_world/chunks.m3u8
