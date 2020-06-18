@@ -4904,20 +4904,52 @@ http://bestever.vodiptv.org:83/08109135/35167295/366914
 http://bestever.vodiptv.org:83/08109135/35167295/379456
 #EXTINF:0, group-title="UK Sports",UK Sky Sports Racing FHD
 http://bestever.vodiptv.org:83/08109135/35167295/366914
-#EXTINF:0, group-title="Ausie spoort",Fox Sports 501
+#EXTINF:0,Golf Channel HD
+http://bestever.vodiptv.org:83/08109135/35167295/254393
+#EXTINF:0,VIP HD GOLF CHANNEL
+http://bestever.vodiptv.org:83/08109135/35167295/308883
+#EXTINF:0,VIP HD NBC GOLF
+http://bestever.vodiptv.org:83/08109135/35167295/308839
+#EXTINF:0,CANADA: GOLF HD
+http://bestever.vodiptv.org:83/08109135/35167295/306175
+#EXTINF:0,Fox Sports 501
 http://bestever.vodiptv.org:83/08109135/35167295/381399
-#EXTINF:0, group-title="Ausie spoort",Fox Sports 502
+#EXTINF:0,Fox Sports 502
 http://bestever.vodiptv.org:83/08109135/35167295/381400
-#EXTINF:0, group-title="Ausie spoort",Fox Sports 503
+#EXTINF:0,Fox Sports 503
 http://bestever.vodiptv.org:83/08109135/35167295/381401
-#EXTINF:0, group-title="Ausie spoort",Fox Sports 504
+#EXTINF:0,Fox Sports 504
 http://bestever.vodiptv.org:83/08109135/35167295/381402
-#EXTINF:0, group-title="Ausie spoort",Fox Sports 505
+#EXTINF:0,Fox Sports 505
 http://bestever.vodiptv.org:83/08109135/35167295/381403
-#EXTINF:0, group-title="Ausie spoort",Fox Sports 506
+#EXTINF:0,Fox Sports 506
 http://bestever.vodiptv.org:83/08109135/35167295/381404
-#EXTINF:0, group-title="Ausie spoort",Fox Sports 507
+#EXTINF:0,Fox Sports 507
 http://bestever.vodiptv.org:83/08109135/35167295/381405
+#EXTINF:0,TSN HD 1
+http://bestever.vodiptv.org:83/08109135/35167295/254103
+#EXTINF:0,TSN HD 2
+http://bestever.vodiptv.org:83/08109135/35167295/254102
+#EXTINF:0,TSN HD 3
+http://bestever.vodiptv.org:83/08109135/35167295/254101
+#EXTINF:0,TSN HD 4
+http://bestever.vodiptv.org:83/08109135/35167295/254100
+#EXTINF:0,TSN HD 5
+http://bestever.vodiptv.org:83/08109135/35167295/263009
+#EXTINF:0,VIP HD TSN1
+http://bestever.vodiptv.org:83/08109135/35167295/375855
+#EXTINF:0,VIP HD TSN2
+http://bestever.vodiptv.org:83/08109135/35167295/375854
+#EXTINF:0,VIP HD TSN3
+http://bestever.vodiptv.org:83/08109135/35167295/374370
+#EXTINF:0,VIP HD TSN4
+http://bestever.vodiptv.org:83/08109135/35167295/374371
+#EXTINF:0,VIP HD TSN5
+http://bestever.vodiptv.org:83/08109135/35167295/374372
+#EXTINF:0,UK - SSHD Cricket
+http://securetv.net:8080/f2tsvfVXTd/3678114133/1332
+#EXTINF:0,UK - SSHD Cricket2
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/1332
 
 #BDIX
 
