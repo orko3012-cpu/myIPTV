@@ -8415,3 +8415,9 @@ http://51.52.156.22:8888/http/009
 http://103.141.66.36/bpk-tv/10229/default/manifest.mpd
 #EXTINF:0, group-title="Sky Entertainment", And prive HD tv1
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="New Sports Channel", Star Sports 2 TV1
+http://103.214.202.218:8081/live/starsports2/chunks.m3u8
+#EXTINF:0, group-title="New Sports Channel", Sky Cricket Bdix TV1
+http://livetv.colorsbd.com:8081/hdcrictv/ctg_skycricket/chunks.m3u8
+#EXTINF:0, group-title="New Sports Channel", Sky Football Bdix TV1
+http://livetv.colorsbd.com:8081/hdcrictv/ctg_skyfootball/chunks.m3u8
