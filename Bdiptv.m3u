@@ -7998,7 +7998,7 @@ http://103.205.133.42:1935/local/wion_tv_720/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/SpBW5W2.png" group-title="Others",BBC World News
 http://220.158.149.28:8180/TV00000000000000000112@HHZT
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Others",Nat Geo HD
+#EXTINF:0, group-title="Sky Entertainment", Nat Geo Hd Ebox2
 http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="Others",Sony Max
