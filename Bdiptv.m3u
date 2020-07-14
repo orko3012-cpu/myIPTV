@@ -8421,5 +8421,7 @@ http://103.214.202.218:8081/live/starsports2/chunks.m3u8
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_skycricket/chunks.m3u8
 #EXTINF:0, group-title="New Sports Channel", Sky Football Bdix TV1
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_skyfootball/chunks.m3u8
-#EXTINF:0, group-title="Sky Entertainment", Fashion TV paris
-http://n0bz7noq.akciatv.ru/iptv/VC2AHXZZ2NDA8M/2045/index.m3u
+#EXTINF:0, group-title="New Sports Channel", Sony Six Airtel
+http://43.230.123.21:8080/live/sonysix.m3u8
+#EXTINF:0, group-title="New Sports Channel", Sony ten 1 Airtel
+http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
