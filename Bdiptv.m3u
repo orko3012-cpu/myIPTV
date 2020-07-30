@@ -4946,6 +4946,8 @@ http://mainevents.icu:8000/25252025AM2512520/24252025AM2412420/4012
 http://mainevents.icu:8000/25252025AM2512520/24252025AM2412420/4011
 #EXTINF:0, group-title="US Sports4",NBA TV6 live
 http://mainevents.icu:8000/25252025AM2512520/24252025AM2412420/4010
+#EXTINF:0, group-title="US Sports4", SSHD Cricket
+http://securetv.net:8080/f2tsvfVXTd/3678114133/1332
 
 #BDIX
 
