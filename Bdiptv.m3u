@@ -8459,14 +8459,15 @@ http://103.205.133.19/hls/ten1.m3u8
 http://103.205.133.19/hls/ten3.m3u8
 #EXTINF:0, group-title="New Sports Channel", Sony ten 2 Airtel
 http://103.205.133.19/hls/ten2.m3u8
-#EXTINF:0, group-title="New Sports Channel", Star Sports 1 HD (1)
+#EXTINF:0, group-title="New Sports Channel 2", Star Sports 1 HD (1)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
-#EXTINF:0, group-title="New Sports Channel", Star Sports 3 (2)
+#EXTINF:0, group-title="New Sports Channel 2", Star Sports 3 (2)
 http://oqab.life:31000/ropon@25/ropon25/246
-#EXTINF:0, group-title="New Sports Channel", Star Sports Select 1 HD (1)
+#EXTINF:0, group-title="New Sports Channel 2", Star Sports Select 1 HD (1)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
-#EXTINF:0, group-title="New Sports Channel", Star Sports select 2 (1)
+#EXTINF:0, group-title="New Sports Channel 2", Star Sports select 2 (1)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets 1
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets 2
