@@ -9614,7 +9614,10 @@ http://103.205.133.50/hls/chss2.m3u8
 
 
 
-#Miloniptvbd super duper tv 
+#Miloniptvbd
+
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="" group-title="Bangla",T Sports BD
 http://43.251.86.6:8080/hls/channel_1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="" group-title="Bangla",T Sports BD
@@ -9805,8 +9808,6 @@ https://iptv10.raytahost.com/desh/gbangla/index.m3u8
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Orange Bangla [IN]" tvg-logo="" group-title="Bangla",Orange Bangla [IN]
 https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
-
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="India Bangla",Sony Aath
 http://103.205.133.20/hls/sony8.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="India Bangla",Sony Aath 2
@@ -10096,8 +10097,6 @@ http://z5amshls.akamaized.net/andpicshd/playlist.m3u8
 https://botallen.live/t/496/master.m3u8?signature=0a59149be30c5319a8b2999214b5839356051cb0&unique=1e612df97397ed212ba8e405a6bbab03
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV HINDI" logo="Star Vijay" group-title="Indian Vip",UTV HINDI
 http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
-
-
 #EXTINF: -1 tvg-logo="https://assets.botallen.live/images/t/RIbBBNnwJc.png" group-title="Entertainment", STAR PLUS HD
 http://pn.tvott.info:80/477845056156344/477845056156344/83709
 #EXTINF: -1 tvg-logo="https://assets.botallen.live/images/t/RIbBBNnwJc.png" group-title="Entertainment", Star Plus HD
